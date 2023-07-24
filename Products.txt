@@ -1,0 +1,31 @@
+10
+Milk
+A12C34B
+1 6.7 15
+Yogurt
+A11D04B
+1 4.7 15
+Bread
+F2AD91G
+3 3.5 10
+Ice Cream
+YU43G9H
+2 17.9 	5
+Frozen Corn
+Z41UH9G
+2 22.5	5
+Pasta Long Thick
+E3R567T
+3 12.3 7
+Shampoo
+E3R562Z
+3 22.3 17
+Tomato
+G997G3H
+0 4.5  30
+Green Peper
+G98H72G
+0 9.5  30
+Red Peper
+G986G1H
+0 11.5  18
